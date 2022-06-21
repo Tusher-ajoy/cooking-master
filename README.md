@@ -1,1 +1,1 @@
-# cooking-master
+This is a simple food searching website using basic JavaScript. Here a user can search a food and see details of this food. For find food and food details here i use themealdb api. Here is the live site link - https://tusher-ajoy.github.io/cooking-master/
